@@ -1,10 +1,10 @@
 # IBM webMethods Continuous Delivery Accelerators
 
-This GitHub public organization contain a number of repositories offering contextual accelerators for software delivery using webMethods. These accelerators may refer to any product and any version in the suite. They are to be considered as "after-market" additions to the product and not in substitution of existing product capabilities.
+This GitHub public organization contains a number of repositories offering contextual accelerators for software delivery using webMethods. These accelerators may refer to any product and any version in the suite. They are to be considered as "after-market" additions to the product and not in substitution of existing product capabilities.
 
 All repositories within follow the same rules and licensing. License is always [Apache 2](https://www.apache.org/licenses/LICENSE-2.0).
 
-This organization is intended for consumption from customers and partners that pursue continuous delivery practices when deploying and operating webMethods based landscapes. It is driven gy a group of customer-facing IBM consultants, however it also has been receiving external contributions too.
+This organization is intended for consumption from customers and partners that pursue continuous delivery practices when deploying and operating webMethods based landscapes. It is driven by a group of customer-facing IBM consultants, however it has also been receiving external contributions too.
 
 The accelerators present here are intended to be a starting point "solution zero", on one hand, and focused solutions to typical specific situations, on another. They are offered as-is with no warranty whatsoever, it is the responsibility and accountability of the user to appropriately increment, test and assure the derived solutions for their own purposes.
 
