@@ -30,6 +30,7 @@ Prefix|Area
 4h-|Technology Assets Procurement
 5s-|Integration Service with Continuous Delivery
 6o-|GitOps style Continuous deployment
+7u-|Tools and Utilities
 
 
 ### Concept and Framework (prefix `1c-`)
@@ -59,3 +60,7 @@ These repositories deliver either built code packages or container images.
 ### GitOps Style Continuous Deployment (prefix `6o-`)
 
 This area contain GitOps style examples for delivery towards non-local, scalable production like environments.
+
+### Tools and Utilities (prefix `7u-`)
+
+Other tools and utilities that might be useful while applying continuous delivery and eventually operational continuous assurance and improvement processes.
